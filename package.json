@@ -1,0 +1,21 @@
+{
+  "name": "ts_assignment2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build":"tsc",
+    "start": "node dist/fetch.js",
+    "dev": "ts-node src/fetch.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.9.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.21"
+  }
+}
