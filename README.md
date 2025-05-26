@@ -1,23 +1,20 @@
-# 🛒 TypeScript CLI E-Commerce App
+#  TypeScript CLI E-Commerce App
 
 A command-line e-commerce application built using **TypeScript** and **Node.js**, designed to simulate basic Admin and Customer interactions in an e-commerce environment. Admins can manage the product catalog, while customers can browse, filter, and add products to a cart — all via the terminal using prompt-sync.
 
 ---
 
-## 📚 Table of Contents
+##  Table of Contents
 
-- [🔧 Tech Stack](#-tech-stack)
-- [✨ Features](#-features)
-- [📦 Installation & Setup](#-installation--setup)
-- [📁 Project Structure](#-project-structure)
-- [🧪 Usage Notes](#-usage-notes)
-- [🚀 Future Enhancements](#-future-enhancements)
-- [📄 License](#-license)
-- [🙌 Contributing](#-contributing)
+- [ Tech Stack](#-tech-stack)
+- [ Features](#-features)
+- [ Installation & Setup](#-installation--setup)
+- [ sample output](#-sampleoutput)
+- [ Contributing](#-contributing)
 
 ---
 
-## 🔧 Tech Stack
+##  Tech Stack
 
 | Technology     | Description                          |
 |----------------|--------------------------------------|
@@ -46,21 +43,7 @@ A command-line e-commerce application built using **TypeScript** and **Node.js**
 - View items in cart
 - Navigate back to role selection
 
----
 
-##  Installation & Setup
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/SowmyaT-157/naishma_shopping_cart/tree/shopping-cart
-
- 
-##  Features
-
-- Add multiple products to cart 
-- Cup size selection for beverages small/medium/large.
-- Calculates total cost and applies 10% discount based on the billing amount.
-- Final bill summary with payment status
 
 
 ---
@@ -73,7 +56,7 @@ A command-line e-commerce application built using **TypeScript** and **Node.js**
  
 
 ---
-## How To use
+## Installation & setup
 
 1. To clone the project enter the below command in the terminal with the path you want to create your project folder.
 
@@ -83,26 +66,26 @@ A command-line e-commerce application built using **TypeScript** and **Node.js**
 
 1. To install dependencies 
    
- ```bash
+ ```　bash
     npm install -g typeScript
     npm install prompt-sync
-    ```
+ ```
 
  
 
 1. To start the project use the below command in the terminal.
   * To compile the ts file
   
-    ```bash
-       tsc
-       ```
+    ``` bash
+    tsc
+      ```
   * To run the js file
     ```bash
       npm run start
       ```
 
 ---
-## Contributing
+## contributing
 1.Fork the repository
 
 2.Create a new branch (git checkout -b feature-branch).
@@ -113,7 +96,11 @@ A command-line e-commerce application built using **TypeScript** and **Node.js**
 
 5.Create a pull request.
 
+
+
+
 ---
+
 ## contact
 
 for any issues or in Queries ,contact Sowmya T_157
@@ -123,6 +110,6 @@ for any issues or in Queries ,contact Sowmya T_157
 
 ## sample output
 
-![Output Screenshot](assets/output.png)
+![Output Screenshot](assert/output.png)
 
    
