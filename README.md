@@ -9,19 +9,8 @@ A command-line e-commerce application built using **TypeScript** and **Node.js**
 - [ Tech Stack](#-tech-stack)
 - [ Features](#-features)
 - [ Installation & Setup](#-installation--setup)
-- [ sample output](#-sampleoutput)
+- [ Sample output](#-sampleoutput)
 - [ Contributing](#-contributing)
-
----
-
-##  Tech Stack
-
-| Technology     | Description                          |
-|----------------|--------------------------------------|
-| TypeScript     | Type-safe JavaScript superset        |
-| Node.js        | JavaScript runtime for CLI app       |
-| prompt-sync    | Terminal-based user input handler    |
-| Fake Store API | Product data fetching     　　　　　　　|
 
 ---
 
@@ -64,16 +53,21 @@ A command-line e-commerce application built using **TypeScript** and **Node.js**
 
   https://github.com/SowmyaT-157/naishma_shopping_cart/tree/shopping-cart
 
-1. To install dependencies 
+
+- To Install Node.js click the link
+       [Node.js](https://nodejs.org/)
+- To check the Node.js
+    - node -v
+    - It will display the version of the node
+- To install dependencies 
    
  ```　bash
     npm install -g typeScript
-    npm install prompt-sync
+    
  ```
 
- 
 
-1. To start the project use the below command in the terminal.
+2. To start the project use the below command in the terminal.
   * To compile the ts file
   
     ``` bash
@@ -85,7 +79,7 @@ A command-line e-commerce application built using **TypeScript** and **Node.js**
       ```
 
 ---
-## contributing
+## Contributing
 1.Fork the repository
 
 2.Create a new branch (git checkout -b feature-branch).
@@ -101,14 +95,14 @@ A command-line e-commerce application built using **TypeScript** and **Node.js**
 
 ---
 
-## contact
+## Contact
 
 for any issues or in Queries ,contact Sowmya T_157
 
    https://github.com/SowmyaT-157
       
 
-## sample output
+## Sample output
 
 ![Output Screenshot](assert/output.png)
 
